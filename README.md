@@ -1,16 +1,38 @@
-# language_translating_application
+# 🌐 Language Translator App
+A simple yet powerful Flutter application to translate text between different languages using Google Translator.
 
-A new Flutter project.
+## ✨ Features
+  - 🌍 Translate text between English, Hindi, and Marathi.
+  - 🖥️ Simple and user-friendly interface.
+  - ⏱️ Real-time translation results.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📋 Usage
+  - Select the source language from the first dropdown menu.
+  - Select the target language from the second dropdown menu.
+  - Enter the text you want to translate in the text field.
+  - Press the 'Translate' button to get the translated text.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 Dependencies
+  - Flutter: The Flutter framework.
+  - Translator: A package for using Google Translator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📸 Screenshots
+<p align="center">
+  <img src="public/Main.jpg" alt="Screenshot 1" width="200">
+  <img src="public/from.jpg" alt="Screenshot 2" width="200">
+  <img src="public/Hindi.jpg" alt="Screenshot 2" width="200">
+  <img src="public/Marathi.jpg" alt="Screenshot 2" width="200">
+</p>
+
+## 👤 Author
+
+ ### Shantanu Khadse
+  
+  GitHub: [ShantanuKH](https://github.com/ShantanuKH)
+  
+  Email: shantanukhadse784@gmail.com  
+  
+  LinkedIn: [shantanukhadse](https://www.linkedin.com/in/shantanu-khadse-a62585230/)
