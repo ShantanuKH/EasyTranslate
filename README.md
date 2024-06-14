@@ -1,5 +1,5 @@
-# 🌐 Language Translator App
-A simple yet powerful Flutter application to translate text between different languages using Google Translator.
+# 🌐 EasyTranslate 
+EasyTranslate : A language translator app simple yet powerful Flutter application to translate text between different languages using Google Translator.
 
 ## ✨ Features
   - 🌍 Translate text between English, Hindi, and Marathi.
