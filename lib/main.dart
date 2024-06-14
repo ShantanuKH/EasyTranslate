@@ -14,8 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Language Translation App',
       debugShowCheckedModeBanner: false,
-      home: LanguageTranslator(title:'Language Translator');
-      
-    )    
+      home: LanguageTranslatingPage(),
+    );
   }
 }
